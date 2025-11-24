@@ -1,0 +1,5 @@
+{
+  "name": "ETEP EAD - Plataforma de Vídeo Aulas",
+  "description": "Uma plataforma moderna e aprimorada para visualizar e pesquisar vídeo aulas do ETEP EAD, agrupadas por professor ou oficina. Criada com React e Tailwind CSS.",
+  "requestFramePermissions": []
+}
